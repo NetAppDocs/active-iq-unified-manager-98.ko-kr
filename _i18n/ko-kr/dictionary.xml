@@ -12720,8 +12720,6 @@
   <block id="daf5556e2cd44d363ebb94f982b54758" category="sidebar">보호 작업 실패 해결(데이터 보호)</block>
   <block id="63c702324d7a2f1acfb2291776c09e62" category="sidebar">보호 관계 관리 및 모니터링(데이터 보호)</block>
   <block id="721e2c530014fb77b39a26e93e0ef94b" category="sidebar">보호 관계 창 및 대화 상자(데이터 보호)에 대한 설명</block>
-  <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">구성 및 관리 작업을 수행합니다</block>
-  <block id="8b00815fc5298212e3dc28a279ed4a10" category="sidebar">사용자 정의 보고서를 생성합니다</block>
   <block id="5fc23f7e4ef2f5b01f7034e6f2ceb340" category="sidebar">VMware vSphere 시스템에 Unified Manager를 설치합니다</block>
   <block id="32d8b1bb1bdc5067bfbde495253b3469" category="sidebar">클러스터 상태를 모니터링하고 관리합니다</block>
   <block id="0cdc2e43fd617d44b61e3c28d05ef9e7" category="sidebar">상태 임계값 관리(클러스터 상태)</block>
@@ -12737,11 +12735,6 @@
   <block id="458c6c03d066ca184930dd208d270f0f" category="sidebar">Unified Manager 유지보수 윈도우(클러스터 상태)란?</block>
   <block id="b6a37febbfcd299253addfaef17d14d2" category="sidebar">SAML 인증 설정 관리(클러스터 상태)</block>
   <block id="b18762187a76685e14050770c534b8bf" category="sidebar">이벤트 세부 정보 페이지(클러스터 상태)</block>
-  <block id="c1a9193a29dc40ec352c6691d67ab578" category="sidebar">Windows 시스템에 Unified Manager를 설치합니다</block>
-  <block id="a0af5ca8f7344392b5c82b109a63af72" category="sidebar">Active IQ Unified Manager 소개(Windows 시스템)</block>
-  <block id="70104377094a1b08793fc5ab5e6bbf34" category="sidebar">Unified Manager(Windows 시스템) 설치 요구 사항</block>
-  <block id="8d6c82b2ac4ea5256730039b09b01a10" category="sidebar">Unified Manager 소프트웨어 설치, 업그레이드 및 제거(Windows 시스템)</block>
-  <block id="013bd757b5f39b48944aa701029bfff3" category="sidebar">타사 제품 업그레이드(Windows 시스템)</block>
   <block id="6f047d4c177cc734ed65cb347cf6bd42" category="sidebar">클러스터 성능을 모니터링하고 관리합니다</block>
   <block id="7b6c318fd25f9f3167946ff1cd519b37" category="sidebar">성능 임계값 관리(클러스터 성능)</block>
   <block id="5cee3e2a7d9fd3a450c386f7bc50f8d8" category="sidebar">워크로드 분석기를 사용하여 워크로드 문제 해결(클러스터 성능)</block>
@@ -12771,4 +12764,9 @@
   <block id="5c5b460958d8a157f04ee9220402180a" category="sidebar">Unified Manager(Linux 시스템) 설치 요구 사항</block>
   <block id="0be34adafb7168f113c5bc1ba63d91a6" category="sidebar">Unified Manager 소프트웨어(Linux 시스템) 설치, 업그레이드 및 제거</block>
   <block id="5756bb66030fc01fd59788fc576e4822" category="sidebar">마운트/옵트/NetApp에 대한 SELinux 요구 사항</block>
+  <block id="9fde9515d3a1ede8d6f12a1892c894ec" category="sidebar">온라인 도움말</block>
+  <block id="d667ab1eefcedffdc31f52ebff9d478d" category="sidebar">Active IQ Unified Manager 소개(관리 및 모니터링)</block>
+  <block id="21287f9310da73025b9619111ce2ce7e" category="sidebar"><strong>Fix it</strong> 또는 <strong>Fix All</strong> 단추가 표시되면 어떤 옵션이 있는지 확인합니다</block>
+  <block id="19966a54541b838c85278932c36c8122" category="sidebar">Unified Manager 호스트 이름 변경(관리 및 모니터링)</block>
+  <block id="433a3de67ad10a966d2b8b61c37210d2" category="sidebar">Unified Manager 데이터베이스 디렉토리에 디스크 공간 추가(관리 및 모니터링)</block>
 </blocks>
