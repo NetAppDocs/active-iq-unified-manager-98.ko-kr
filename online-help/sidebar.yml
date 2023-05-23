@@ -1,9 +1,9 @@
 ---
 section: online-help
-title: 온라인 도움말
+title: 9fde9515d3a1ede8d6f12a1892c894ec
 entries:
 - title: Active IQ Unified Manager 소개
-  pdf-filename: Active IQ Unified Manager 소개(관리 및 모니터링)
+  pdf-filename: d667ab1eefcedffdc31f52ebff9d478d
   url: "/online-help/concept-introduction-to-unified-manager.html"
   entries:
   - title: Active IQ Unified Manager 상태 모니터링 소개
@@ -52,7 +52,7 @@ entries:
   - title: Unified Manager에서 직접 ONTAP 문제 해결
     url: "/online-help/concept-fixing-ontap-issues-directly-from-unified-manager.html"
     entries:
-    - title: Fix it 또는 Fix All 단추가 표시되면 어떤 옵션이 있는지 확인합니다
+    - title: 21287f9310da73025b9619111ce2ce7e
       url: "/online-help/concept-what-options-do-i-have-when-i-see-the-fix-it-button.html"
     - title: 수정하도록 선택한 관리 작업의 상태를 봅니다
       url: "/online-help/task-viewing-the-status-of-all-management-actions-you-have-chosen-to-fix.html"
@@ -1409,7 +1409,7 @@ entries:
   url: "/online-help/concept-troubleshooting.html"
   entries:
   - title: Unified Manager 호스트 이름을 변경하는 중입니다
-    pdf-filename: Unified Manager 호스트 이름 변경(관리 및 모니터링)
+    pdf-filename: 19966a54541b838c85278932c36c8122
     url: "/online-help/concept-changing-the-unified-manager-host-name.html"
     entries:
     - title: Unified Manager 가상 어플라이언스 호스트 이름을 변경하는 중입니다
@@ -1417,7 +1417,7 @@ entries:
     - title: Linux 시스템에서 Unified Manager 호스트 이름 변경
       url: "/online-help/task-changing-the-unified-manager-host-name-on-rhel-or-centos.html"
   - title: Unified Manager 데이터베이스 디렉토리에 디스크 공간 추가
-    pdf-filename: Unified Manager 데이터베이스 디렉토리에 디스크 공간 추가(관리 및 모니터링)
+    pdf-filename: 433a3de67ad10a966d2b8b61c37210d2
     url: "/online-help/concept-adding-disk-space-to-the-unified-manager-database-directory.html"
     entries:
     - title: VMware 가상 머신의 데이터 디스크에 공간 추가
