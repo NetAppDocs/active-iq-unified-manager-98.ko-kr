@@ -1,6 +1,6 @@
 ---
 section: performance-checker
-title: 6f047d4c177cc734ed65cb347cf6bd42
+title: 클러스터 성능을 모니터링하고 관리합니다
 entries:
 - title: Active IQ Unified Manager 성능 모니터링 소개
   url: "/performance-checker/concept-introduction-to-unified-manager-performance-monitoring.html"
@@ -53,7 +53,7 @@ entries:
   - title: 시스템 정의 성능 임계값 정책의 유형입니다
     url: "/performance-checker/reference-types-of-system-defined-performance-threshold-policies.html"
 - title: 성능 임계값 관리
-  pdf-filename: 7b6c318fd25f9f3167946ff1cd519b37
+  pdf-filename: 성능 임계값 관리(클러스터 성능)
   url: "/performance-checker/concept-managing-performance-thresholds.html"
   entries:
   - title: 사용자 정의 성능 임계값 정책의 작동 방식
@@ -88,7 +88,7 @@ entries:
   - title: 성능 통계 수집 주기 변경
     url: "/performance-checker/task-changing-the-performance-statistics-collection-interval.html"
 - title: 워크로드 분석기를 사용하여 워크로드 문제 해결
-  pdf-filename: 5cee3e2a7d9fd3a450c386f7bc50f8d8
+  pdf-filename: 워크로드 분석기를 사용하여 워크로드 문제 해결(클러스터 성능)
   url: "/performance-checker/concept-troubleshooting-workloads-using-the-workload-analyzer.html"
   entries:
   - title: 워크로드 분석기가 표시하는 데이터는 무엇입니까
@@ -98,17 +98,17 @@ entries:
   - title: 워크로드 분석기를 사용합니다
     url: "/performance-checker/task-using-the-workload-analyzer.html"
 - title: 성능 클러스터 랜딩 페이지에서 클러스터 성능을 모니터링합니다
-  pdf-filename: 4055607a505292e96a80554fd58a4e64
+  pdf-filename: 성능 클러스터 랜딩 페이지(클러스터 성능)에서 클러스터 성능 모니터링
   url: "/performance-checker/concept-monitoring-cluster-performance-from-the-cluster-landing-page.html"
   entries:
   - title: 성능 클러스터 랜딩 페이지 이해
     url: "/performance-checker/concept-understanding-the-performance-cluster-landing-page.html"
   - title: 성능 클러스터 랜딩 페이지 를 참조하십시오
-    pdf-filename: 0db41ee78b37bb6a911896e1706e1db1
+    pdf-filename: 성능 클러스터 랜딩 페이지(클러스터 성능)
     url: "/performance-checker/reference-performance-cluster-landing-page.html"
     entries:
     - title: 성능 클러스터 요약 페이지
-      pdf-filename: 14c992efb73d9230b778a5be1e48b109
+      pdf-filename: 성능 클러스터 요약 페이지(클러스터 성능)
       url: "/performance-checker/reference-cluster-summary-page-opm.html"
       entries:
       - title: 클러스터 성능 이벤트 창
@@ -118,13 +118,13 @@ entries:
     - title: 우수 성과 페이지
       url: "/performance-checker/reference-top-performers-page.html"
 - title: 성능 인벤토리 페이지를 사용하여 성능 모니터링
-  pdf-filename: bd4d7fc7efe51394c5609e7028a89161
+  pdf-filename: 성능 인벤토리 페이지(클러스터 성능)를 사용하여 성능 모니터링
   url: "/performance-checker/concept-monitoring-performance-using-the-object-performance-inventory-pages.html"
   entries:
   - title: 성능 개체 인벤토리 페이지를 사용하여 개체 모니터링
     url: "/performance-checker/concept-object-monitoring-using-the-object-inventory-performance-pages.html"
   - title: 성능 재고 페이지 콘텐츠 구체화
-    pdf-filename: 60e931429de36a253ed4281414506246
+    pdf-filename: 성능 인벤토리 페이지 콘텐츠(클러스터 성능) 개선
     url: "/performance-checker/concept-refining-object-inventory-performance-page-content.html"
     entries:
     - title: 객체 재고 퍼포먼스 페이지에서 검색 중입니다
@@ -136,7 +136,7 @@ entries:
   - title: 데이터를 클라우드에 계층화하도록 Unified Manager의 권장 사항 이해
     url: "/performance-checker/concept-understanding-the-um-recommendations-to-tier-data-to-the-cloud.html"
 - title: 성능 탐색기 페이지를 사용하여 성능 모니터링
-  pdf-filename: cd98155c9ebd0b4e5798d08fe818d0c0
+  pdf-filename: 성능 탐색기 페이지(클러스터 성능)를 사용하여 성능 모니터링
   url: "/performance-checker/concept-monitoring-performance-using-the-performance-explorer-pages.html"
   entries:
   - title: 루트 개체 이해
@@ -144,7 +144,7 @@ entries:
   - title: 필터링을 적용하여 그리드의 상관 오브젝트 목록을 줄입니다
     url: "/performance-checker/concept-applying-filtering-to-correlated-objects.html"
   - title: 상관 오브젝트에 대한 시간 범위 지정
-    pdf-filename: 3bfdbbba06a0da9a30e5dfb4f4a5c52b
+    pdf-filename: 상호 연결된 개체의 시간 범위 지정(클러스터 성능)
     url: "/performance-checker/task-specifying-a-correlated-objects-time-range.html"
     entries:
     - title: 미리 정의된 시간 범위 선택
@@ -166,7 +166,7 @@ entries:
   - title: 이벤트 타임라인에서 이벤트 세부 정보 보기
     url: "/performance-checker/task-viewing-event-details-in-the-performance-explorer-events-timeline.html"
   - title: 카운터 차트 확대/축소 보기
-    pdf-filename: 7e3d11e39c296556e26128597a83be5f
+    pdf-filename: 카운터 차트 확대/축소 보기(클러스터 성능)
     url: "/performance-checker/concept-counter-charts-zoom-view.html"
     entries:
     - title: 카운터 차트 확대/축소 보기 표시
@@ -186,7 +186,7 @@ entries:
   - title: 로컬 노드에만 있는 워크로드를 기준으로 노드 IOPS 보기
     url: "/performance-checker/task-viewing-node-iops-based-on-workloads-that-reside-only-on-the-local-node.html"
   - title: 개체 랜딩 페이지의 구성 요소입니다
-    pdf-filename: 997c11eb30499c63077ded6cd0af0797
+    pdf-filename: 오브젝트 랜딩 페이지의 구성 요소(클러스터 성능)
     url: "/performance-checker/concept-components-of-the-object-landing-pages-opm.html"
     entries:
     - title: 요약 페이지
@@ -194,7 +194,7 @@ entries:
     - title: 성능 탐색기 페이지의 구성 요소입니다
       url: "/performance-checker/concept-components-of-the-performance-explorer-page.html"
 - title: QoS 정책 그룹 정보를 사용하여 성능 관리
-  pdf-filename: 13863084fbe609ffbdbde5379b405b9f
+  pdf-filename: QoS 정책 그룹 정보(클러스터 성능)를 사용하여 성능 관리
   url: "/performance-checker/concept-managing-performance-using-qos-policy-group-information.html"
   entries:
   - title: 스토리지 QoS로 워크로드 처리량을 제어하는 방법
@@ -212,7 +212,7 @@ entries:
   - title: Performance Explorer에서 워크로드 QoS 최소 및 최대 설정 보기
     url: "/performance-checker/task-viewing-workload-qos-minimum-and-maximum-settings.html"
 - title: 성능 용량 및 사용 가능한 IOPS 정보를 사용하여 성능 관리
-  pdf-filename: 833536b007e5dc522ec95154291d5673
+  pdf-filename: 성능 용량 및 사용 가능한 IOPS 정보(클러스터 성능)를 사용하여 성능 관리
   url: "/performance-checker/concept-managing-performance-using-perf-capacity-and-available-iops-information.html"
   entries:
   - title: 사용된 성능 용량이 무엇입니까
@@ -232,7 +232,7 @@ entries:
   - title: 카운터를 사용하여 성능을 관리합니다
     url: "/performance-checker/concept-using-the-performance-capacity-used-counter-to-manage-performance.html"
 - title: 노드 장애 조치 계획 페이지의 이해 및 사용
-  pdf-filename: f7d8295b62383c5905f73d94fab2a91d
+  pdf-filename: 노드 장애 조치 계획 페이지(클러스터 성능) 이해 및 사용
   url: "/performance-checker/reference-understanding-and-using-the-node-failover-planning-page.html"
   entries:
   - title: 노드 장애 조치 계획 페이지를 사용하여 수정 조치를 결정합니다
@@ -244,7 +244,7 @@ entries:
   - title: 장애 조치 계획에 사용된 성능 용량 분석 차트를 사용합니다
     url: "/performance-checker/task-using-the-perf-capacity-used-breakdown-chart-for-failover-planning.html"
 - title: 데이터 수집 및 워크로드 성능 모니터링
-  pdf-filename: 31c08b81891f5ffa387874cd28b4729a
+  pdf-filename: 데이터 수집 및 워크로드 성능 모니터링(클러스터 성능)
   url: "/performance-checker/concept-collecting-data-and-monitoring-workload-performance.html"
   entries:
   - title: Unified Manager에서 모니터링하는 워크로드의 유형입니다
@@ -260,13 +260,13 @@ entries:
   - title: 클러스터 작업이 워크로드 지연 시간에 미치는 영향
     url: "/performance-checker/concept-how-cluster-operations-can-affect-workload-latency.html"
   - title: MetroCluster 구성의 성능 모니터링
-    pdf-filename: a64ee0d6babd0439c9f3674e47406b5f
+    pdf-filename: MetroCluster 구성의 성능 모니터링(클러스터 성능)
     url: "/performance-checker/concept-performance-monitoring-of-metrocluster-configurations.html"
     entries:
     - title: 스위치오버 및 스위치백 중 볼륨 동작
       url: "/performance-checker/concept-volume-behavior-during-switchover-and-switchback.html"
   - title: 어떤 성능 이벤트가 있는지 확인합니다
-    pdf-filename: 93bc2e54f1178627cbf74d7ff9d4d422
+    pdf-filename: 성능 이벤트(클러스터 성능)
     url: "/performance-checker/concept-what-performance-events-are.html"
     entries:
     - title: 성능 이벤트 분석 및 알림
@@ -278,19 +278,19 @@ entries:
     - title: 성능 이벤트와 관련된 워크로드의 역할
       url: "/performance-checker/concept-roles-of-workloads-involved-in-a-performance-incident.html"
 - title: 성능 이벤트 분석
-  pdf-filename: 8096ca2fd7af9cca5f4e4e621ddfe88e
+  pdf-filename: 성능 이벤트 분석(클러스터 성능)
   url: "/performance-checker/concept-analyzing-performance-events.html"
   entries:
   - title: 성능 이벤트에 대한 정보 표시
     url: "/performance-checker/task-displaying-information-about-a-performance-event.html"
   - title: 사용자 정의 성능 임계값의 이벤트 분석
-    pdf-filename: 1f7b694fa151b6e5e94d108b2f19dff2
+    pdf-filename: 사용자 정의 성능 임계값(클러스터 성능)의 이벤트 분석
     url: "/performance-checker/concept-analyzing-events-from-user-defined-performance-thresholds.html"
     entries:
     - title: 사용자 정의 성능 임계값 이벤트에 응답
       url: "/performance-checker/task-responding-to-user-defined-performance-threshold-events.html"
   - title: 시스템 정의 성능 임계값에서 이벤트 분석
-    pdf-filename: 89c39eda634097d08c2d019a482285c2
+    pdf-filename: 시스템 정의 성능 임계값(클러스터 성능)의 이벤트 분석
     url: "/performance-checker/concept-analyzing-events-from-system-defined-performance-thresholds.html"
     entries:
     - title: 시스템 정의 성능 임계값 이벤트에 응답
@@ -304,7 +304,7 @@ entries:
     - title: 클러스터 불균형 성능 이벤트에 대한 대응
       url: "/performance-checker/task-responding-to-cluster-imbalance-performance-events.html"
   - title: 동적 성능 임계값에서 이벤트 분석
-    pdf-filename: a5f9c0660ea467c7c86afc1f051b7386
+    pdf-filename: 동적 성능 임계값(클러스터 성능)의 이벤트 분석
     url: "/performance-checker/concept-analyzing-events-from-dynamic-performance-thresholds.html"
     entries:
     - title: 동적 성능 이벤트와 관련된 피해자 워크로드 파악
@@ -314,7 +314,7 @@ entries:
     - title: 동적 성능 이벤트와 관련된 shark 워크로드 식별
       url: "/performance-checker/task-identifying-shark-workloads-involved-in-a-performance-event.html"
     - title: MetroCluster 구성에 대한 성능 이벤트 분석
-      pdf-filename: 78ad073c3d86b8f6327c6e3f8b6530e4
+      pdf-filename: MetroCluster 구성에 대한 성능 이벤트 분석(클러스터 성능)
       url: "/performance-checker/concept-performance-incident-analysis-for-a-metrocluster-configuration.html"
       entries:
       - title: MetroCluster 구성에서 클러스터의 동적 성능 이벤트 분석

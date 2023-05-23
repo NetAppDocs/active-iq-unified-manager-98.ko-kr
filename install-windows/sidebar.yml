@@ -1,9 +1,9 @@
 ---
 section: install-windows
-title: c1a9193a29dc40ec352c6691d67ab578
+title: Windows 시스템에 Unified Manager를 설치합니다
 entries:
 - title: Active IQ Unified Manager 소개
-  pdf-filename: a0af5ca8f7344392b5c82b109a63af72
+  pdf-filename: Active IQ Unified Manager 소개(Windows 시스템)
   url: "/install-windows/concept-introduction-to-unified-manager.html"
   entries:
   - title: Unified Manager 서버의 기능
@@ -11,7 +11,7 @@ entries:
   - title: 설치 순서 개요
     url: "/install-windows/concept-overview-of-the-installation-sequence-um.html"
 - title: Unified Manager 설치 요구 사항
-  pdf-filename: 70104377094a1b08793fc5ab5e6bbf34
+  pdf-filename: Unified Manager(Windows 시스템) 설치 요구 사항
   url: "/install-windows/concept-requirements-for-installing-unified-manager.html"
   entries:
   - title: 가상 인프라 및 하드웨어 시스템 요구 사항
@@ -25,7 +25,7 @@ entries:
   - title: 워크시트를 작성합니다
     url: "/install-windows/reference-completing-the-worksheet-um.html"
 - title: Unified Manager 소프트웨어의 설치, 업그레이드 및 제거
-  pdf-filename: 8d6c82b2ac4ea5256730039b09b01a10
+  pdf-filename: Unified Manager 소프트웨어 설치, 업그레이드 및 제거(Windows 시스템)
   url: "/install-windows/concept-installing-upgrading-and-removing-unified-manager-software.html"
   entries:
   - title: 설치 프로세스 개요
@@ -42,7 +42,7 @@ entries:
   - title: Unified Manager 업그레이드
     url: "/install-windows/task-upgrading-to-unified-manager-on-microsoft-windows.html"
   - title: 타사 제품 업그레이드
-    pdf-filename: 013bd757b5f39b48944aa701029bfff3
+    pdf-filename: 타사 제품 업그레이드(Windows 시스템)
     url: "/install-windows/concept-upgrading-third-party-products-on-windows-um.html"
     entries:
     - title: OpenJDK 업그레이드 중
