@@ -1,0 +1,65 @@
+---
+indexpage:
+  title: Active IQ Unified Manager 문서
+  summary: Active IQ Unified Manager(Unified Manager 및 이전의 OnCommand Unified Manager)를
+    사용하면 단일 인터페이스에서 ONTAP 스토리지 시스템의 상태 및 성능을 모니터링 및 관리할 수 있습니다. 이 설명서 라이브러리에는 버전 9.8에
+    대한 정보가 포함되어 있습니다.
+  keywords: monitor, manage, health, performance, ONTAP storage systems, version 9.8.
+  lead: Active IQ Unified Manager(Unified Manager 및 이전의 OnCommand Unified Manager)를
+    사용하면 단일 인터페이스에서 ONTAP 스토리지 시스템의 상태 및 성능을 모니터링 및 관리할 수 있습니다. 이 설명서 라이브러리에는 버전 9.8에
+    대한 정보가 포함되어 있습니다.
+  tiles:
+  - title: 시작하십시오
+    links:
+    - title: 릴리스 정보
+      url: "/release-notes.html"
+    - title: VMware vSphere를 위한 빠른 시작 설치
+      url: qsg-vapp.html
+    - title: Linux용 빠른 시작 설치
+      url: qsg-linux.html
+    - title: Windows용 빠른 시작 설치
+      url: qsg-windows.html
+  - title: Unified Manager 설치 및 구성
+    links:
+    - title: VMware vSphere 시스템에 설치 및 업그레이드
+      url: install-vapp/concept-requirements-for-installing-unified-manager.html
+    - title: Linux 시스템에 설치 및 업그레이드
+      url: install-linux/concept-requirements-for-installing-unified-manager.html
+    - title: Windows 시스템에 설치 및 업그레이드
+      url: install-windows/concept-requirements-for-installing-unified-manager.html
+    - title: Unified Manager를 구성합니다
+      url: config/concept-configuring-unified-manager.html
+  - title: 성능 모니터링
+    links:
+    - title: 성능 임계값
+      url: performance-checker/concept-managing-performance-thresholds.html
+    - title: 클러스터 성능
+      url: performance-checker/concept-monitoring-cluster-performance-from-the-dashboard.html
+    - title: QoS 정책 그룹
+      url: performance-checker/concept-managing-performance-using-qos-policy-group-information.html
+  - title: 데이터 보호 모니터링
+    links:
+    - title: 보호 관계를 설정합니다
+      url: "/data-protection/task-setting-up-protection-relationships-in-unified-manager.html"
+    - title: 장애 조치 및 장애 복구를 수행합니다
+      url: "/data-protection/task-performing-a-protection-relationship-failover-and-failback.html"
+    - title: 보호 관계를 관리합니다
+      url: "/data-protection/concept-managing-and-monitoring-protection-relationships.html"
+    - title: 보고서를 생성합니다
+      url: "/reporting/concept-unified-manager-reporting.html"
+  - title: REST API 사용
+    links:
+    - title: 시작하십시오
+      url: "/api-automation/concept-api-url-and-categories.html"
+    - title: Active IQ Unified Manager에서 REST API 액세스 및 인증
+      url: "/api-automation/concept-rest-api-access-and-authentication-in-oncommand-api-services.html"
+    - title: ONTAP API 액세스
+      url: "/api-automation/concept-gateway-apis.html"
+  - title: 더 많은 리소스
+    links:
+    - title: Unified Manager 비디오
+      url: https://www.youtube.com/playlist?list=PLdXI3bZJEw7mp3jFSg0IJgo3oeDQRY-Gl
+    - title: Unified Manager 블로그
+      url: https://www.netapp.com/blog/#q=active%20iq%20unified%20manager&t=Blogs&sort=%40publish-date-mktg%20descending&layout=card&f:@facet-language-mktg=[English]
+    - title: 최신 버전의 Active IQ Unified Manager 설명서
+      url: https://docs.netapp.com/us-en/active-iq-unified-manager/index.html
