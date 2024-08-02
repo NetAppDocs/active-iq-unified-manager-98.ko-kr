@@ -1,6 +1,6 @@
 ---
 section: api-automation
-title: 77d7ce66941e6a8a53f84f813d2b2bf1
+title: REST API를 사용하여 스토리지 관리
 entries:
 - title: Active IQ Unified Manager 시작하기
   url: "/api-automation/concept-getting-started-with-getting-started-with-um-apis.html"

@@ -1,6 +1,6 @@
 ---
 section: data-protection
-title: d549fcac9e4340e7fb3d154a339f9c13
+title: 데이터 보호 및 복원
 entries:
 - title: 보호 관계 생성, 모니터링 및 문제 해결
   url: "/data-protection/concept-creating-and-monitoring-protection-relationships.html"
@@ -30,7 +30,7 @@ entries:
     - title: 볼륨/상태 세부 정보 페이지에서 보호 관계를 재동기화합니다
       url: "/data-protection/task-resynchronizing-protection-relationships-from-the-health-volume-details-page.html"
   - title: 보호 작업 실패 해결
-    pdf-filename: daf5556e2cd44d363ebb94f982b54758
+    pdf-filename: 보호 작업 실패 해결(데이터 보호)
     url: "/data-protection/task-resolving-a-protection-job-failure.html"
     entries:
     - title: 문제 식별 및 실패한 보호 작업에 대한 수정 조치 수행
@@ -38,7 +38,7 @@ entries:
   - title: 지연 문제 해결
     url: "/data-protection/task-resolving-lag-issues.html"
 - title: 보호 관계 관리 및 모니터링
-  pdf-filename: 63c702324d7a2f1acfb2291776c09e62
+  pdf-filename: 보호 관계 관리 및 모니터링(데이터 보호)
   url: "/data-protection/concept-managing-and-monitoring-protection-relationships.html"
   entries:
   - title: 볼륨 보호 관계 보기
@@ -132,7 +132,7 @@ entries:
   - title: 실패한 보호 작업을 다시 시도합니다
     url: "/data-protection/task-retrying-a-failed-protection-job.html"
   - title: 보호 관계 창 및 대화 상자에 대한 설명입니다
-    pdf-filename: 721e2c530014fb77b39a26e93e0ef94b
+    pdf-filename: 보호 관계 창 및 대화 상자(데이터 보호)에 대한 설명
     url: "/data-protection/reference-description-of-protection-relationships-window-and-dialog-boxes.html"
     entries:
     - title: 리소스 풀 페이지를 참조하십시오
